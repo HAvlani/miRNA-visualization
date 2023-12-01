@@ -2,8 +2,8 @@ import delegator
 import pandas as pd
 from Bio.PDB import PDBParser, PDBIO
 
-name = "UUAAUGCUAAUCGUGAUAGGGGUU"
-sequence = "UUAAUGCUAAUCGUGAUAGGGGUU"
+name = ""
+sequence = ""
 fastaFileName = f"{name}_fasta.txt"
 pdbFileName = f"{name}.pdb"
 
